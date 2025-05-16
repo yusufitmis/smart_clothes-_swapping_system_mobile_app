@@ -85,6 +85,7 @@ Bu proje, aşağıdaki ekip üyeleri tarafından geliştirilmiştir:
 
 | İsim | E-posta |
 |------|---------|
+| **Muhammed Yusuf İtmiş** | yusufitms@gmail.com |
 | **Burak Onur** | bonur167@gmail.com |
 | **Abdulsamet Gülsüm** | abdulgulme@gmail.com |
 | **Utku Ayyıldız** | utkuayyildiz@gmail.com |
