@@ -39,9 +39,9 @@ An innovative platform that merges sustainable fashion with digital wardrobe man
 
 ## ⚙️ Teknolojiler | Technologies Used
 
-- **Frontend**: React.js / Flutter
-- **Backend**: Node.js / Django / Firebase
-- **Database**: PostgreSQL / Firebase Firestore
+- **Frontend**: Flutter
+- **Backend**: Node.js 
+- **Database**: MySQL 
 - **AI & Image Processing**: Python, OpenCV, RemBG, TensorFlow
 - **3D Modelleme**: Three.js, Unity WebGL, Babylon.js
 
